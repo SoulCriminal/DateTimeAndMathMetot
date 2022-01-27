@@ -1,0 +1,15 @@
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\bin\Debug\net6.0\DateTimeAndMathMetot.exe
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\bin\Debug\net6.0\DateTimeAndMathMetot.deps.json
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\bin\Debug\net6.0\DateTimeAndMathMetot.runtimeconfig.json
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\bin\Debug\net6.0\DateTimeAndMathMetot.dll
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\bin\Debug\net6.0\ref\DateTimeAndMathMetot.dll
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\bin\Debug\net6.0\DateTimeAndMathMetot.pdb
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.csproj.AssemblyReference.cache
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.AssemblyInfoInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.AssemblyInfo.cs
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.csproj.CoreCompileInputs.cache
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.dll
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\ref\DateTimeAndMathMetot.dll
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.pdb
+C:\Users\MGM\Desktop\VsCode\C#\DateTimeAndMathMetot\obj\Debug\net6.0\DateTimeAndMathMetot.genruntimeconfig.cache
